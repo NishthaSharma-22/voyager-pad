@@ -23,7 +23,7 @@ The PCB was made in KiCad.
 
 
 Silkscreen image credit: [Martin Melin – Voyager (via macpaint.org)](http://www.macpaint.org/images/1980s/martin_melin_voyager.gif)
-### CAD Model:
+## CAD Model:
 The case was made in Autodesk Fusion.
 
 <img src="assets/images/case.png" alt="autodesk case screenshot" width="300" />
