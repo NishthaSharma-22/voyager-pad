@@ -23,3 +23,10 @@ The PCB was made in KiCad.
 
 Silkscreen image credit: [Martin Melin – Voyager (via macpaint.org)](http://www.macpaint.org/images/1980s/martin_melin_voyager.gif)
 
+### BOM
+Here is everything needed to make this macropad:
+- 1x XIAO RP2040
+- 1x 0.91" 128x32 OLED Display
+- - 7x Cherry MX Switches
+- 7x DSA Keycaps
+- 1x Case
