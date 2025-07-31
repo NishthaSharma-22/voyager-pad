@@ -2,7 +2,7 @@
 
 Voyagerpad is a 7 key macropad with an OLED Display.
 
-<img width="500" height="761" alt="voyagerpad cad screenshot" src="assets/images/cad_model.png" />
+<img width="300" alt="voyagerpad cad screenshot" src="assets/images/cad_model.png" />
 
 ## Features:
 - 128x32 OLED Display
@@ -16,14 +16,14 @@ The PCB was made in KiCad.
 
 ### PCB 
 <div>
-  <img src="assets/images/pcb.png" alt="voyagerpad pcb" width="300"/>
-  <img src="assets/images/pcb_2.png" alt="voyagerpad pcb1" width="300"/>
-  <img src="assets/images/pcb_with_3d_models.png" alt="voyagerpad pcb with 3d models" width="300"/>
+  <img src="assets/images/pcb.png" alt="voyagerpad pcb" width="200"/>
+  <img src="assets/images/pcb_2.png" alt="voyagerpad pcb1" width="200"/>
+  <img src="assets/images/pcb_with_3d_models.png" alt="voyagerpad pcb with 3d models" width="200"/>
 </div>
 
 
 Silkscreen image credit: [Martin Melin – Voyager (via macpaint.org)](http://www.macpaint.org/images/1980s/martin_melin_voyager.gif)
-### CAD Model:
+## CAD Model:
 The case was made in Autodesk Fusion.
 
 <img src="assets/images/case.png" alt="autodesk case screenshot" width="300" />
