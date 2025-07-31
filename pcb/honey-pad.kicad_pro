@@ -486,10 +486,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../../downloads_online/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "honey-pad.step",
       "svg": "",
       "vrml": ""
     },
