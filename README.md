@@ -27,6 +27,6 @@ Silkscreen image credit: [Martin Melin – Voyager (via macpaint.org)](http://ww
 Here is everything needed to make this macropad:
 - 1x XIAO RP2040
 - 1x 0.91" 128x32 OLED Display
-- - 7x Cherry MX Switches
+- 7x Cherry MX Switches
 - 7x DSA Keycaps
 - 1x Case
