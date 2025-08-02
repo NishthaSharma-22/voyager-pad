@@ -39,3 +39,5 @@ Here is everything needed to make this macropad:
 - 7x Cherry MX Switches
 - 7x DSA Keycaps
 - 1x Case
+
+The gerbers, case STEP files and firmware are all in <code>/production</code> for anyone who wants to make voyagerpad! :)
