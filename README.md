@@ -26,7 +26,9 @@ Silkscreen image credit: [Martin Melin – Voyager (via macpaint.org)](http://ww
 ## CAD Model:
 The case was made in Autodesk Fusion.
 
-<img src="assets/images/case.png" alt="autodesk case screenshot" width="300" />
+<img src="assets/images/top_case.png" alt="top case image" width="300"/>
+<img src="assets/images/case.png" alt="bottom case screenshot" width="300" />
+<img src="assets/images/complete_case.PNG" alt="complete case cad image" width="300"/>
 
 
 ### BOM
